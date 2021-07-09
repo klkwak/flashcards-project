@@ -10,3 +10,4 @@ Languages, frameworks, and packages used include:
 - React (with hooks)
 
 This project has not yet been deployed - see below for a preview of frontend design:
+<img width="464" alt="8ad6e17b7d849280a619e4bb69c26baa-home" src="https://user-images.githubusercontent.com/73764394/125138742-349c8800-e0dd-11eb-8bd8-11bbb8d06e33.png">
