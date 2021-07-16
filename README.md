@@ -6,6 +6,7 @@ Languages, frameworks, and packages used include:
 
 - HTML5
 - CSS3
+- Bootstrap
 - JavaScript ES6
 - React (with hooks)
 
